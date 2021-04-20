@@ -7,12 +7,10 @@
 
 
 
-<ul>
-<li>🏫 I'm currently a graduate student major in Data Science at RWTH Aachen University <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">@RWTH-Aachen</a>.</li>
-<li>🧐 Learning about <strong>data science</strong>, <strong>process mining</strong>, and a bit of <strong>ERP system</strong>.</li>
-<li>💻 Regulary learning something new....</li>
-<li>🎉 Ask me for ... a joke!</li>
-</ul>
+- 🏫 I'm currently a graduate student major in Data Science at RWTH Aachen University <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">@RWTH-Aachen</a>.
+- 🧐 Learning about <strong>data science</strong>, <strong>process mining</strong>, and a bit of <strong>ERP system</strong>.
+- 💻 Regulary learning something new....
+- 🎉 Ask me for ... a joke!
 
 
 
@@ -24,6 +22,14 @@
 <h3>⚡️ Something About Me</h3>
 <p>I'm currently a graduate student major in Data Science at RWTH Aachen University in Aachen, Germany. </p>
 Here are some ideas to get you started:
+<ul>
+<li>🏫 I'm currently a graduate student major in Data Science at RWTH Aachen University <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">@RWTH-Aachen</a>.</li>
+<li>🧐 Learning about <strong>data science</strong>, <strong>process mining</strong>, and a bit of <strong>ERP system</strong>.</li>
+<li>💻 Regulary learning something new....</li>
+<li>🎉 Ask me for ... a joke!</li>
+</ul>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
