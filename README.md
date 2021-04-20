@@ -15,9 +15,6 @@
 <li>🎉 Ask me for ... a joke!</li>
 </ul>
 
-![chinesefontdesign com_2016-09-04_18-38-45](https://user-images.githubusercontent.com/33006597/115468603-9d3d3c80-a233-11eb-9f25-3e2b6a6cc222.gif)
-![chinesefontdesign com_2016-09-04_18-38-42](https://user-images.githubusercontent.com/33006597/115468619-a1695a00-a233-11eb-863b-2bffc42245a2.gif)
-
 
 <!--
 **yaxtang/yaxtang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +29,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 ![chinesefontdesign com_2016-09-04_18-38-45](https://user-images.githubusercontent.com/33006597/115468603-9d3d3c80-a233-11eb-9f25-3e2b6a6cc222.gif)
 ![chinesefontdesign com_2016-09-04_18-38-42](https://user-images.githubusercontent.com/33006597/115468619-a1695a00-a233-11eb-863b-2bffc42245a2.gif)
+
+![chinesefontdesign com_2016-09-04_18-38-45](https://user-images.githubusercontent.com/33006597/115468603-9d3d3c80-a233-11eb-9f25-3e2b6a6cc222.gif)
+![chinesefontdesign com_2016-09-04_18-38-42](https://user-images.githubusercontent.com/33006597/115468619-a1695a00-a233-11eb-863b-2bffc42245a2.gif)
+
+-->
