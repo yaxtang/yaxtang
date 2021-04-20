@@ -1,6 +1,6 @@
-<h1> <img src=" https://user-images.githubusercontent.com/33006597/115468603-9d3d3c80-a233-11eb-9f25-3e2b6a6cc222.gif" width="40px"> Hey, I'm Yaxin <img src="https://user-images.githubusercontent.com/33006597/115468619-a1695a00-a233-11eb-863b-2bffc42245a2.gif" width="40px">
+<h1> <img src="https://user-images.githubusercontent.com/33006597/115469137-5d2a8980-a234-11eb-84c7-2963f40c3273.gif" width="40px"> Hey, I'm Yaxin <img src="https://user-images.githubusercontent.com/33006597/115468619-a1695a00-a233-11eb-863b-2bffc42245a2.gif" width="40px">
   
- 
+
 </h1>
 <p>I'm currently a graduate student major in Data Science at RWTH Aachen University in Aachen, Germany. </p>
 
@@ -9,7 +9,7 @@
 
 <h2>⚡️ Something About Me</h2>
 <ul>
-<li>🏫 I'm currently a graduate student major in Data Science at RWTH Aachen University [@RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1).</li>
+<li>🏫 I'm currently a graduate student major in Data Science at RWTH Aachen University <a href="ttps://www.rwth-aachen.de/go/id/a/?lidx=1">@RWTH-Aachen</a>.</li>
 <li>🧐 Learning about <strong>data science</strong>, <strong>process mining</strong>, and a bit of <strong>ERP system</strong>.</li>
 <li>💻 Regulary learning something new....</li>
 <li>🎉 Ask me for ... a joke!</li>
