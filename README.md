@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 - 🏫 I'm currently a graduate student major in Data Science at RWTH Aachen University <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">@RWTH-Aachen</a>.
 - 🧐 Learning about <strong>data science</strong>, <strong>process mining</strong>, and a bit of <strong>ERP system</strong>.
 - 💻 Regulary learning something new....
-- 🎉 Ask me for ... a joke!
+- 🎉 Ask me for ... a joke! 
+- Why do programmers always mix up Christmas and Halloween?
+Because Dec 25 is Oct 31.
 
 
 - 🔭 I’m currently working on ...
