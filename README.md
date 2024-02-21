@@ -8,7 +8,7 @@
 
 <ul>
 <li>🏫 I'm currently a graduate student major in Data Science at RWTH Aachen University <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">@RWTH-Aachen</a>.</li>
-<li>🧐 Learning about <strong>Python</strong>, <strong>Java</strong>,  <strong>process mining</strong>....</li>
+<li>🧐 Learning about <strong>Python</strong>, <strong>Java</strong>,  <strong>C</strong>, <strong>Automated Testing</strong>....</li>
 <li>💻 Regulary learning something new....</li>
 <li>🎉 Ask me for ... a joke!
   <br>Why do programmers always mix up Christmas and Halloween?
